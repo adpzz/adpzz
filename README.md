@@ -2,13 +2,9 @@
 <h3 align="center">A passionate DS and ML developer/researcher from Colombia</h3>
 
 - 🔭 I’m currently working at [Nalsani S.A.S.](https://co.totto.com/)
-
 - 📫 How to reach me **andapzz@gmail.com**
-
 - 💬 Ask me about **CV, NLP, General ML & Data Science**
-
 - 🌱 I’m currently learning **Quantum Computing**
-
 - ⚡ I really love **Physics, Seventh art, Reading and Knowledge generation and sharing**
 
 <h3 align="left">Connect with me:</h3>
