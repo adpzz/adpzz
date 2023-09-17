@@ -14,22 +14,31 @@
 </p>
 
 <h3 align="left">Programming Languages:</h3>
-
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25" alt="python logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="25" alt="r logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="25" alt="matlab logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="25" alt="java logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg" height="25" alt="csharp logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" height="25" alt="cplusplus logo"  />
-  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25" alt="python logo"  /> <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="25" alt="r logo"  /> <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="25" alt="matlab logo"  /> <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="25" alt="java logo"  /> <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg" height="25" alt="csharp logo"  /> <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" height="25" alt="cplusplus logo"  /> <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" height="25" alt="c logo"  />
 </div>
+
+<h3 align="left">Technologies and Frameworks:</h3>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="25" alt="tensorflow logo"/> <img width="5" />
+  <img src="https://keras.io/img/logo.png" height="25" alt="keras logo"/> <img width="5" />
+  <img src="https://caffe2.ai/static/logo.svg" height="25" alt="caffe logo"/> <img width="5" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Theano_logo.svg/120px-Theano_logo.svg.png" height="25" alt="theano logo"/> <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="25" alt="pytorch logo"  />
+  <img src="https://spark.apache.org/images/spark-logo-rev.svg" height="25" alt="Spark"/> <img width="5" />
+  <img src="https://shiny.posit.co/images/shiny-solo.png" height="25" alt="Shiny logo"/> <img width="5" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2560px-Amazon_Web_Services_Logo.svg.png" height="25" alt="AWS"/> <img width="5" />
+  <img src="https://seeklogo.com/images/G/google-cloud-logo-ADE788217F-seeklogo.com.png" height="25" alt="GCP"/> <img width="5" />  
+</div>
+
+
+
 
 
 ### Research Groups
