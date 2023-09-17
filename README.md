@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andrés D. Pérez</h1>
-<h3 align="center">A passionate DS and ML developer/researcher from Colombia</h3>
+<h3 align="center">A passionate Sr. DS and ML developer/researcher from Colombia</h3>
 
 - 🔭 I’m currently working at [Nalsani S.A.S.](https://co.totto.com/)
 - 📫 How to reach me **andapzz@gmail.com**
@@ -12,6 +12,11 @@
 <a href="https://linkedin.com/in/andapzz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andapzz" height="20" width="30" /></a>
 <a href="https://instagram.com/andapzz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="andapzz" height="20" width="30" /></a>
 </p>
+
+### Research Groups
+
+- [GOIC](http://www.hermes.unal.edu.co/pages/Consultas/Grupo.jsf?idGrupo=1031)
+- [Mindlab](https://ingenieria.unal.edu.co/mindlab/)
 
 
 <!--
