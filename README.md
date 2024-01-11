@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Andrés D. Pérez</h1>
 <h3 align="center">A passionate Sr. DS and ML developer/researcher from Colombia</h3>
 
-- 🔭 I’m currently working at [Nalsani S.A.S.](https://co.totto.com/)
+- 🔭 I’m currently working at [Globant](https://www.globant.com/)
 - 📫 How to reach me **andapzz@gmail.com**
 - 💬 Ask me about **CV, NLP, General ML & Data Science**
 - 🌱 I’m currently learning **Quantum Computing**
